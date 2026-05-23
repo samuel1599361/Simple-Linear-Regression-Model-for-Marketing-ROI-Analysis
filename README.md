@@ -1,0 +1,2 @@
+# Simple-Linear-Regression-Model-for-Marketing-ROI-Analysis
+I am a 3MTT NextGen Cohort Fellow in AI/ML with Fellow ID: FE/23/42914251. On May 23, 2026, as my Mini Project 1 for week 3 (step 12 of 89) in the DHF LMS Platform, I built a Simple Linear Regression Model – for Marketing ROI Analysis, using Jupyter Notebook for Python and statsmodels. It translates raw data into actionable marketing insights.
